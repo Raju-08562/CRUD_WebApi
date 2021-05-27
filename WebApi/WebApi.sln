@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{816EE214-27F0-4FF1-8A63-E5C52AD30A6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{891791AD-A18D-4B9D-AB50-31D8B0E920FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm", "WebForm\WebForm.csproj", "{6344BA9B-DCC8-4B1E-B5A7-3BA9BEBF32CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{816EE214-27F0-4FF1-8A63-E5C52AD30A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816EE214-27F0-4FF1-8A63-E5C52AD30A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816EE214-27F0-4FF1-8A63-E5C52AD30A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816EE214-27F0-4FF1-8A63-E5C52AD30A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{891791AD-A18D-4B9D-AB50-31D8B0E920FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891791AD-A18D-4B9D-AB50-31D8B0E920FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891791AD-A18D-4B9D-AB50-31D8B0E920FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891791AD-A18D-4B9D-AB50-31D8B0E920FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6344BA9B-DCC8-4B1E-B5A7-3BA9BEBF32CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6344BA9B-DCC8-4B1E-B5A7-3BA9BEBF32CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6344BA9B-DCC8-4B1E-B5A7-3BA9BEBF32CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6344BA9B-DCC8-4B1E-B5A7-3BA9BEBF32CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E8688F6-C3CD-4649-970D-93ABE234F696}
+	EndGlobalSection
+EndGlobal
