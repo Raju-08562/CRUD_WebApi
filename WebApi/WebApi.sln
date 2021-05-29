@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{891791AD-A18D-4B9D-AB50-31D8B0E920FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm", "WebForm\WebForm.csproj", "{6344BA9B-DCC8-4B1E-B5A7-3BA9BEBF32CD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{891791AD-A18D-4B9D-AB50-31D8B0E920FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{891791AD-A18D-4B9D-AB50-31D8B0E920FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{891791AD-A18D-4B9D-AB50-31D8B0E920FE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6344BA9B-DCC8-4B1E-B5A7-3BA9BEBF32CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6344BA9B-DCC8-4B1E-B5A7-3BA9BEBF32CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6344BA9B-DCC8-4B1E-B5A7-3BA9BEBF32CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6344BA9B-DCC8-4B1E-B5A7-3BA9BEBF32CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
